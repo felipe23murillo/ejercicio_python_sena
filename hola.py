@@ -3,3 +3,8 @@ def saludar(nombre):
 
 saludar("Andres")
 # Fin del archivo hola.py
+
+def saludarIngles(nombre):
+    print(f"Hello, {nombre}!")
+
+saludarIngles("Pedro")
